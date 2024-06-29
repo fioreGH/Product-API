@@ -1,2 +1,2 @@
 # Product-API
-Product API - lombok + springframework +flywaydb+ postgre + JPA
+Product API - lombok + springframework +validation +flywaydb+ postgre + JPA + Postman + 
